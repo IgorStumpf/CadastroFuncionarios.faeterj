@@ -1,17 +1,11 @@
 package trabalhoPAV;
 
 import java.util.ArrayList;
-import trabalhoPAV.TelaInicial;
-
-import java.util.Iterator;
 
 import javax.swing.JOptionPane;
-import javax.swing.JTable;
-import javax.swing.table.DefaultTableModel;
 
 public class FuncionarioService {
 	ArrayList<Funcionario> listFuncionario;
-	private JTable tabelaFuncionarios;	
 	
 	public FuncionarioService() {
 		listFuncionario = new ArrayList<Funcionario>();

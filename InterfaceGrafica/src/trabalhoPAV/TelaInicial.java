@@ -2,15 +2,10 @@ package trabalhoPAV;
 
 import java.awt.EventQueue;
 
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
-
-import trabalhoPAV.FuncionarioService;
-import trabalhoPAV.Funcionario;
-
 import javax.swing.JTextField;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
@@ -18,9 +13,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.awt.event.ActionEvent;
-import javax.swing.SwingConstants;
 import java.awt.Font;
-import javax.swing.JTextArea;
 import javax.swing.JTable;
 import javax.swing.border.LineBorder;
 import java.awt.Color;
